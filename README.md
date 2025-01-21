@@ -1,0 +1,5 @@
+Final FIFA World Cup Dashboard ![Final_Dashboard](https://github.com/user-attachments/assets/f57e7225-691a-42ec-ba4a-6c2c59d49cc2)
+Teams with Caps and Goals![Sheet1](https://github.com/user-attachments/assets/6648dc4f-be85-4fc3-bd01-4622dd976a54)
+Group Analysis of all teams ![Sheet4](https://github.com/user-attachments/assets/116e8c37-dc6c-497b-8b06-9fdd22e6181b)
+Word Cloud based on Goals ![Sheet5](https://github.com/user-attachments/assets/24c9ade2-a6a5-4e06-8d05-ff36933c21fe)
+Map Analysis ![Sheet7](https://github.com/user-attachments/assets/7b4fcbd7-875a-4dd3-82b5-a4769e7d61cc)
